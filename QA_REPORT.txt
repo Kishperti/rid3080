@@ -1,0 +1,8 @@
+QA summary
+- Verified all 7 pages include the stylesheet and JS references.
+- Verified the new District Featured Events dropdown exists on every page.
+- Verified remote image placeholders are present for official Rotaract 3080 content.
+- Verified CSS braces are balanced.
+- Verified site.js parses successfully with Node --check.
+- Reduced large vertical spacing in hero/section/page-hero layouts.
+- Added motion, hover, dropdown, and hero parallax behavior.

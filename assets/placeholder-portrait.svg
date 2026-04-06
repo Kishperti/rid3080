@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#651a2b"/>
+      <stop offset="100%" stop-color="#9b4253"/>
+    </linearGradient>
+    <radialGradient id="r" cx="30%" cy="20%" r="80%">
+      <stop offset="0%" stop-color="#f6e7dd" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#f6e7dd" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="1000" rx="40" fill="#fdf8f3"/>
+  <rect x="32" y="32" width="736" height="936" rx="34" fill="url(#g)"/>
+  <circle cx="680" cy="130" r="190" fill="#c79b69" opacity=".18"/>
+  <circle cx="130" cy="200" r="220" fill="#f5e5dc" opacity=".18"/>
+  <rect x="90" y="700" width="620" height="160" rx="30" fill="rgba(255,255,255,.16)"/>
+  <text x="90" y="150" font-size="52" font-family="Arial, Helvetica, sans-serif" font-weight="700" fill="#ffffff">Rotaract 3080</text>
+  <text x="90" y="210" font-size="28" font-family="Arial, Helvetica, sans-serif" fill="#f5e5dc">Official district portrait</text>
+  <text x="90" y="760" font-size="34" font-family="Arial, Helvetica, sans-serif" font-weight="700" fill="#ffffff">Leadership image slot</text>
+  <text x="90" y="815" font-size="24" font-family="Arial, Helvetica, sans-serif" fill="#f5e5dc">Portrait will load from the official district site when online.</text>
+</svg>
